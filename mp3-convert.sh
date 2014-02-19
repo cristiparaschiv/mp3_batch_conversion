@@ -57,6 +57,3 @@ do
 		echo "No mp3 files in current directory"
 	fi
 done
-
-#mv /tmp/*.mp3 "$FOLDER"
-
